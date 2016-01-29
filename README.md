@@ -12,4 +12,5 @@ Be sure that your project meets all of the success criteria.
 - Utilize valid Semantic Markup.
 - Provide functional link to subscription page.
 - Provide functional link to episode guide.
-- Will utilize valid CSS (*NOTE*: You can style the page with any color scheme you'd like as long as it confirms to the structure provided in the mock up)
+- Will utilize valid CSS (*NOTE*: You can style the page with any color scheme you'd like as long as it confirms to the structure provided in the mock up).
+- Be launched onto Firebase and shared with other students.
